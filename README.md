@@ -10,4 +10,4 @@
 - transação na ethereumscan. ![transação na ethereumsan](img/ethereumscan.png)
 - a transação não apareceu diretamente na carteira, logo, atraves do token contract (0x18c714Ec7FC3A653f9562D6986eF5Eff87EB2a25) importei na carteira da MetaMask. ![mostrando a carteira MetaMask](img/metamask.png)
 
-#####Obs.: realizei o procedimento duas vezes e as duas derem certo, e acima está somente a transação da segunda tentativa.
+##### Obs.: realizei o procedimento duas vezes e as duas derem certo, e acima está somente a transação da segunda tentativa.
